@@ -6,13 +6,13 @@ As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
 
 **!! *Não coloque os nomes dos alunos no título do repositório*. !!**
 
-**!! *Exemplo de título correto: 2024.2_G1_SMA_ProjetoComportamentoEmergente*. !!**
+**!! *Exemplo de título correto: 2025.1_G1_SMA_ProjetoComportamentoEmergente*. !!**
  
  (Apague esses comentários)
 
 # NomeDoProjeto
 
-**Disciplina**: FGA0134 - Sistemas Multiagentes <br>
+**Disciplina**: FGA0053 - Sistemas Multiagentes <br>
 **Nro do Grupo (de acordo com a Planilha de Divisão dos Grupos)**: XX<br>
 **Frente de Pesquisa**: XXXXXXXXXX<br>
 
